@@ -17,7 +17,7 @@ body {
 
 .card {
     width: inline-flex;
-    height: inline-flex;
+    height: 200px;
     /* margin: 0 auto; */
     padding: 16px 32px;
     display: flex;
